@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "ucGnGoZsjVxaxrHJ0KgtavfngRXEsyKJwbqoWv5jZbkUe/n1NMFq/6F00ZgQVqWTueODJHsdPsFYtjstLegbeQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\LEONARDO\\source\\repos\\JWT-generator-reader\\JWT-generator-reader\\JWT-generator-reader.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LEONARDO\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\LEONARDO\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\6.7.1\\microsoft.identitymodel.jsonwebtokens.6.7.1.nupkg.sha512",
+    "C:\\Users\\LEONARDO\\.nuget\\packages\\microsoft.identitymodel.logging\\6.7.1\\microsoft.identitymodel.logging.6.7.1.nupkg.sha512",
+    "C:\\Users\\LEONARDO\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.7.1\\microsoft.identitymodel.tokens.6.7.1.nupkg.sha512",
+    "C:\\Users\\LEONARDO\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\LEONARDO\\.nuget\\packages\\system.identitymodel.tokens.jwt\\6.7.1\\system.identitymodel.tokens.jwt.6.7.1.nupkg.sha512",
+    "C:\\Users\\LEONARDO\\.nuget\\packages\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512",
+    "C:\\Users\\LEONARDO\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
